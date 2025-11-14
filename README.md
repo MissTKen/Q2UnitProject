@@ -1,2 +1,4 @@
-# Q2UnitProject
-Final Research Project Source Database for ELA 8 Students
+# Student Research Sandbox
+
+👉 **Click here to open the research website:**  
+https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
