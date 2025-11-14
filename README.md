@@ -1,4 +1,6 @@
-# Student Research Sandbox
+# ELA 8 Research Hub
 
-👉 **Click here to open the research website:**  
-https://misstken.github.io/Q2UnitProject/
+Click below to access the student website:
+
+👉 https://misstken.github.io/Q2UnitProject/
+
